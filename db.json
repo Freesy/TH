@@ -3,9 +3,9 @@
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "3.8.0" },
-    { "id": 4, "title": "https://wwz.lanzoul.com/i0quv1wfeh6b" },
-    { "id": 5, "title": "2s22" },
-    { "id": 6, "title": "2024/4/25\nV3.8.0\n1.修复桃钻卡BUG的问题\n2.修复进黑屋的问题\n3.加入时间过滤 0点 16点 12点 18点 避免卡的问题(解散、高级守护切换队长等)\n4.修复面板各个设置项不实时变更的问题（以前关闭才会覆写）\n5.新增元魂试炼（未完待续）" }
+    { "id": 4, "title": "https://wwz.lanzoul.com/iOmxZ1wk9e7e" },
+    { "id": 5, "title": "h004" },
+    { "id": 6, "title": "2024/4/26\nV3.9.0\n增添桃枝世界发言、跨服发言\n" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
