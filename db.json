@@ -2,10 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "4.3.0" },
-    { "id": 4, "title": "https://wwyz.lanzoul.com/iW5vC299py1g" },
-    { "id": 5, "title": "1ikr" },
-    { "id": 6, "title": "2024/9/5\nV4.3.0\n1.积木新界面适配(包括副本、领桃钻等问题)\n2.新增9月节日礼包\n3.新增兑换道具功能(包括战斗、侠义、庄园币、义气、衍武、星君、合成道具)" }
+    { "id": 3, "title": "4.4.0" },
+    { "id": 4, "title": "https://wwyz.lanzoul.com/ib2uF2hcw8sf" },
+    { "id": 5, "title": "aoy8" },
+    { "id": 6, "title": "2024/12/6\nV4.4.0\n1.新增丝绸之路\n2.新增涤尘珠兑换、培元丹勾选兑换\n3.新增领取职位俸禄\n4.修复积木修改贡品图星标卡住的问题\n5.挖宝结束频道恢复全部" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
