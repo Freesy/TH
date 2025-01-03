@@ -2,10 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "4.4.0" },
-    { "id": 4, "title": "https://wwyz.lanzoul.com/ib2uF2hcw8sf" },
-    { "id": 5, "title": "aoy8" },
-    { "id": 6, "title": "2024/12/6\nV4.4.0\n1.新增丝绸之路\n2.新增涤尘珠兑换、培元丹勾选兑换\n3.新增领取职位俸禄\n4.修复积木修改贡品图星标卡住的问题\n5.挖宝结束频道恢复全部" }
+    { "id": 3, "title": "4.5.0" },
+    { "id": 4, "title": "https://wwyz.lanzoul.com/i4oMl2jte7da" },
+    { "id": 5, "title": "2wcu" },
+    { "id": 6, "title": "2025/1/3\nV4.5.0\n1.新增桃枝任务\n2.新增元旦、腊八、除夕礼包\n" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
