@@ -2,10 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "4.5.0" },
-    { "id": 4, "title": "https://wwyz.lanzoul.com/i4oMl2jte7da" },
-    { "id": 5, "title": "2wcu" },
-    { "id": 6, "title": "2025/1/3\nV4.5.0\n1.新增桃枝任务\n2.新增元旦、腊八、除夕礼包\n" }
+    { "id": 3, "title": "4.6.0" },
+    { "id": 4, "title": "https://wwyz.lanzoul.com/iQI7t2lwqb4h" },
+    { "id": 5, "title": "gyd4" },
+    { "id": 6, "title": "2025/1/25\nV4.6.0\n1.修复开局元魂未领取卡一条龙的问题\n2.修复兽栏已满导致的问题\n3.去除桃枝任务" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
