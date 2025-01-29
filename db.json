@@ -2,10 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "4.6.0" },
-    { "id": 4, "title": "https://wwyz.lanzoul.com/iQI7t2lwqb4h" },
-    { "id": 5, "title": "gyd4" },
-    { "id": 6, "title": "2025/1/25\nV4.6.0\n1.修复开局元魂未领取卡一条龙的问题\n2.修复兽栏已满导致的问题\n3.去除桃枝任务" }
+    { "id": 3, "title": "4.7.0" },
+    { "id": 4, "title": "https://wwyz.lanzoul.com/ilnRv2m87x3g" },
+    { "id": 5, "title": "dnma" },
+    { "id": 6, "title": "2025/1/29\nV4.7.0\n1.修复有狗比偷树，最后一次飞别人家里的问题\n2.修复点击许愿后遮挡大罗识别导致的问题（增加500毫秒间隔时间）\n3.修复垃圾横幅遮挡许愿大罗的问题（不再下移，循环识别）" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
