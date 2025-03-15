@@ -2,10 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "4.9.0" },
-    { "id": 4, "title": "https://wwyz.lanzoul.com/itZkx2p44rbe" },
-    { "id": 5, "title": "68af" },
-    { "id": 6, "title": "2025/2/28\nV4.9.0\n1.修复更新下载后辅助打不开的问题（原接口已收费，已更换新接口）\n2.修复全自动模式最后带队号卡住不日常的问题\n3.修复全自动模式、日常等结束后巡城最小化导致的问题" }
+    { "id": 3, "title": "5.0.0" },
+    { "id": 4, "title": "https://wwyz.lanzoul.com/iTBlx2qoe18b" },
+    { "id": 5, "title": "h0m5" },
+    { "id": 6, "title": "2025/3/15\nV5.0.0\n1.新增偷吃贼功能(加入到全自动功能、多开日常功能中，单开日常不打偷吃)\n2.优化日常开始会取消自动，避免有些B挂自动挖宝碰到宝宝卡着站很久说是bug" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
