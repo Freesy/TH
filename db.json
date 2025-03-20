@@ -2,10 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "5.0.0" },
-    { "id": 4, "title": "https://wwyz.lanzoul.com/iTBlx2qoe18b" },
-    { "id": 5, "title": "h0m5" },
-    { "id": 6, "title": "2025/3/15\nV5.0.0\n1.新增偷吃贼功能(加入到全自动功能、多开日常功能中，单开日常不打偷吃)\n2.优化日常开始会取消自动，避免有些B挂自动挖宝碰到宝宝卡着站很久说是bug" }
+    { "id": 3, "title": "5.1.0" },
+    { "id": 4, "title": "https://wwyz.lanzoul.com/iGXxP2r6i0ih" },
+    { "id": 5, "title": "c4fs" },
+    { "id": 6, "title": "2025/3/20\nV5.1.0\n1.优化切换队长逻辑，不再受到好友弹窗/生日弹窗/结婚弹窗影响\n2.优化战斗中的逻辑判断，副本/丝绸/偷吃不再因阵法不同出现BUG\n3.修改守护开始逻辑\n4.修复多开日常偷吃贼少于五个号出现的BUG\n5.修复新手号低于4只宝宝龙争虎斗卡在新弹窗的问题\n6.修复妖王有时候找不到弹窗导致死循环的问题" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
